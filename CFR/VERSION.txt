@@ -1,4 +1,0 @@
-[VERSION]:
-WD-032
-
-en desarrollo
